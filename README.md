@@ -8,20 +8,6 @@ Desenvolvedor apaixonado por tecnologia, criação de soluções digitais e apre
 
 ---
 
-##  Sobre mim
-
- Estudante de **Engenharia de Software na UNISA**.
-
- Tenho interesse em desenvolvimento de aplicações web, arquitetura de software e criação de soluções eficientes.
-
- Atualmente desenvolvendo projetos utilizando tecnologias modernas como **React, Next.js e TypeScript**.
-
- Cofundador da **Ariflux**, empresa focada no desenvolvimento de soluções digitais.
-
- Sempre buscando evoluir minhas habilidades técnicas e transformar ideias em projetos reais.
-
----
-
 ##  Tecnologias e ferramentas
 
 <div align="center">
@@ -71,19 +57,5 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fezika18&theme=tokyo-night&hide_border=true&area=true"/>
 
 ---
-
-##  Entre em contato
-
-<div align="center">
-
-<a href="mailto:ferogerio046@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/felipe-rogério-a18a69235/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=120&section=footer"/>
